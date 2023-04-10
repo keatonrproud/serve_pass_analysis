@@ -62,7 +62,7 @@ Expected win percentages based on pass quality are used to predict overall win p
 
 An example of the visualization can be seen below:
 
-![Serve PSP analysis](/ZG%20Serve%20Pass%20Analysis.png)
+![Serve PSP analysis](/ZG_Analysis.png)
 
 <br />
 
