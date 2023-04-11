@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was used from the 2020-21 season onwards with Queen's Men's Volleyball to better understand and train our team's serving. Speed and outcome data was collected across all practices and matches. 
+This project was used from the 2019-20 season onwards with the Queen's Men's Volleyball team to better understand and train our team's serving. Speed and outcome data was collected across all practices and matches. 
 
 Expected win percentages based on pass quality are used to predict overall win percentage in velocity bins for a server. You can input your own data, roster, and/or expected win percentages after cloning the repo.
 
