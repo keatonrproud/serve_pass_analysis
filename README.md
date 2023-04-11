@@ -78,7 +78,7 @@ Here's an example of the output:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you want to view the web app, [click here](http://www.keatonrproud.shinyapps.io/ServePassAnalysis). 
+If you want to view the web app, [click here](http://www.keatonrproud.shinyapps.io/ServePassAnalysis). There is a warning about connection privacy, however the web app asks for no personal information to be inputted.
 You can also clone the repo to edit the app and the data to make it your own.
 
 ### Prerequisites
