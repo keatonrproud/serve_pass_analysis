@@ -95,10 +95,10 @@ names_list <- as.data.frame(unlist(names_list)) %>% mutate(
 )
 
 # Define UI for application -----
-ui <- fluidPage(titlePanel("QMVB PSP Analysis"),
+ui <- fluidPage(titlePanel("PSP Analysis"),
                 sidebarLayout(
                   sidebarPanel(
-                    textInput("Password","Password:", value='gogaelsgo'),
+                    textInput("Password","Password:", value='dataiscool'),
                     tags$hr(),
                     selectInput("SkillInput","Select Skill:", 
                                 choices = c("Serving","")),
@@ -115,7 +115,7 @@ ui <- fluidPage(titlePanel("QMVB PSP Analysis"),
 
 # Define server logic required to draw a histogram
 server <- function(input, output) observe({
-    if(input$Password == "gogaelsgo") {
+    if(input$Password == "dataiscool") {
     output$names_list <- renderUI ({
     input_names <- names_list
     input_names <- c("",input_names)
